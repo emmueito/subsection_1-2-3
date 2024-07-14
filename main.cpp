@@ -3,7 +3,7 @@
 
 int main()
 {
-    DigitalIn b1(BUTTON1);
+    DigitalIn b1(BUTTON1); // solo 
     DigitalIn d2(D2);
     DigitalIn d3(D3);
     DigitalIn d4(D4);
